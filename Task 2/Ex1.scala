@@ -1,4 +1,4 @@
-import scala._ // I utilized this wildcard to implement "Random" and "square root" function 
+import scala.util._ // I utilized this wildcard to implement "Random" and "square root" function 
 
 object Ex1{
 def isPrime(n: Int): Boolean = {
