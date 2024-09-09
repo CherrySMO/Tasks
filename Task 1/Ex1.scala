@@ -26,7 +26,7 @@ object Ex1 {
   println("arr3: " + arr3.mkString(", "))
   println("arr4: " + arr4.mkString(", "))
   println("arr5: " + arr5.mkString(", "))
-  println("arr6: " + arr6.mkString(", "))
+  println("arr6: " + arr6.deep.mkString(", ")) //For multidimensional array. To output the depth of the array we use .deep
   println("arr7: " + arr7.mkString(", "))
   println("arr8: " + arr8.mkString(", "))
   println("arr9: " + arr9.mkString(", "))
