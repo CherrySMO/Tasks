@@ -1,0 +1,2 @@
+Answer: As we know it, MuxCase consists of sequence of condition of if-else statement which it select an output on the basis os that condition.
+The MuxLookup uses a key to match the value of condition =. If it is true it will proceed to select that corresponding condition.
