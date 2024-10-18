@@ -1,0 +1,1 @@
+Answer: The notable key difference would be, is that io.sum is specialized for arithmetic operations e.g. ADD,SUB, whereas io.out is a more general output that reflects the result of any operation performed by the ALU.This methodology helps us in the execution of pipeline task and grant us better optimization.
