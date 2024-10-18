@@ -1,0 +1,4 @@
+Answer: We havent assigned the fucntion fo shiftl and shiftr to any variable so the error is a logical operation one.
+We assigned the output for ALU_COPY_B to ALU_COPY_A.
+The comparison method of cmp should act for both signed and unsigned vlaues.
+For shin command we have to properly use the correct designation of shiftl and shiftr .So, we will replace it.
